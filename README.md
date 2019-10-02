@@ -64,6 +64,7 @@ Percentage Change in AVG Tackle Points of Season 7 as compared to Avg of Season 
 Percentage Change in AVG Tackle Points of Season 7 as compared to Avg of All Seasons combined.
 
 Using these metrics and historical data, A simple Linear Regression Model was Built to predict the Average Raid Points and Average Tackle Points for Season 7 of the Top Teams.
+Model was evaluated on the Mean Squared Error using K-fold Cross Validation.
 
 Using this, the final Total Successful Raid Points and Total Successful Tackle Points were Predicted for the teams.
 Therefore,
@@ -78,12 +79,31 @@ APPROACH:
 Approach of Task 3 and 4 was Extrapolated for Task 5.
 
 Data was extracted from the site https://www.prokabaddi.com/ using Selenium and BeautifulSoup.
+Data was extracted for the various Teams, their matches played and the following Data
+Super Raids
+Super Tackles
+All-Outs Inflicted
+All-Outs Conceded
+
+DATA was analysed and various metrics were generated such as,
+Avg SPT for Season 7
+Avg SPT for Season 6
+Avg SPT for all Seasons Combined
+
+Using these metrics and historical data, A Linear Regression Model was made to predict the Avg SPT of Teams.
+Model was evaluated on the Mean Squared Error using K-fold Cross Validation.
+
+# Answer of TASK 5: BENGAL WARRIORS would have the highest super-performance total.
+
+# TASK 6 and 7
+
+Task 6: Predict the player with the highest SUCCESSFUL RAID percentage.
+Task 7: Predict the player with the highest SUCCESSFUL TACKLE percentage.
+
+APPROACH:
+Task 6 and 7 had similar approach and hence described together.
+
+Data was extracted from the site https://www.prokabaddi.com/ using Selenium and BeautifulSoup.
 Data was extracted for the various Teams, their matches played and RAID points in Season 7, Season 6 and ALL SEASONS COMBINED. 
 Data was extracted for the various Teams, their matches played and TACKLE points in Season 7, Season 6 and ALL SEASONS COMBINED.
 
-DATA was analysed and various metrics were generated such as,
-Avg Raid Points for Season 7
-Avg Raid Points for Season 6
-Avg Raid Points for All Seasons Combined,
-Percentage Change in AVG Raid Points of Season 7 as compared to Avg of Season 6.
-Percentage Change in AVG Raid Points of Season 7 as compared to Avg of All Seasons combined.
