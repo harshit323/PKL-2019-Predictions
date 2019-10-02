@@ -69,7 +69,7 @@ Model was evaluated on the Mean Squared Error using K-fold Cross Validation.
 Using this, the final Total Successful Raid Points and Total Successful Tackle Points were Predicted for the teams.
 Therefore,
 
-**ANSWER TASK 3: DABANG DELHI K.C. WOULD have highest points for successful RAIDS**
+**ANSWER TASK 3: DABANG DELHI K.C. WOULD have highest points for successful RAIDS<br>**
 **ANSWER TASK 4: PUNERI PALTAN  WOULD have highest points for successful TACKLES**
 
 
@@ -109,7 +109,7 @@ using Selenium and BeautifulSoup.
 
 On analysing the Data it was observed that the percentage point gap between highest and second highest was extremely wide and that the remaining number of matches for that team would not be sufficient to cross-over, and thus,
 
-**ANSWER TASK 6: SAURABH NANDAL WOULD have the highest SUCCESSFUL RAID percentage.**
+**ANSWER TASK 6: SAURABH NANDAL WOULD have the highest SUCCESSFUL RAID percentage.<br>**
 **ANSWER TASK 7: Ravindra Ramesh Kumawat  WOULD have the highest SUCCESSFUL TACKLE percentage.**
 
 # THE END
