@@ -103,7 +103,13 @@ Task 7: Predict the player with the highest SUCCESSFUL TACKLE percentage.
 APPROACH:
 Task 6 and 7 had similar approach and hence described together.
 
-Data was extracted from the site https://www.prokabaddi.com/ using Selenium and BeautifulSoup.
-Data was extracted for the various Teams, their matches played and RAID points in Season 7, Season 6 and ALL SEASONS COMBINED. 
-Data was extracted for the various Teams, their matches played and TACKLE points in Season 7, Season 6 and ALL SEASONS COMBINED.
+Data was extracted from the site https://www.sportskeeda.com/go/pro-kabaddi/successful-raids-percentage-player 
+and https://www.sportskeeda.com/go/pro-kabaddi/successful-tackles-percentage-player
+using Selenium and BeautifulSoup.
 
+On analysing the Data it was observed that the percentage point gap between highest and second highest was extremely wide and that the remaining number of matches for that team would not be sufficient to cross-over, and thus,
+
+# ANSWER TASK 6: SAURABH NANDAL WOULD have the highest SUCCESSFUL RAID percentage.
+# ANSWER TASK 7: Ravindra Ramesh Kumawat  WOULD have the highest SUCCESSFUL TACKLE percentage.
+
+**THE END**
